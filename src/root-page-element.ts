@@ -1,5 +1,5 @@
 
-import { PageElement } from './page-element';
+import { PageElement, PageQuery } from './page-element';
 
-export class RootPageElement extends PageElement {
+export class RootPageElement<T extends PageQuery> extends PageElement<T> {
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"common-header.d.ts","sourceRoot":"","sources":["../src/common-header.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,MAAM,gBAAgB,CAAC;AAC7C,OAAO,EAAE,kBAAkB,EAAE,MAAM,cAAc,CAAC;AAElD,qBACa,YAAa,SAAQ,WAAW,CAAC,kBAAkB,CAAC;IAC/D,gBAAgB;IAIhB,MAAM;CAKP"}
